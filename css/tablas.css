@@ -1,0 +1,24 @@
+body{
+    background-color:yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+
+header{
+    background:yellow;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+}
+nav{
+    background: green ;
+    height: 50px;
+}
